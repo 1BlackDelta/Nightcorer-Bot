@@ -1,6 +1,8 @@
 {
   "TOKEN": "oopsie you dont raid my bot!",
+  /// default (can be changed with command)
   "PREFIX": "nc!",
+  ///
   "approveemoji": "✅",
   "denyemoji": "🚫",
   "erroremoji": "️❗"
